@@ -1,5 +1,5 @@
 # docker-lab-7-buildx
-This document showcases the usage of building images for various device architectures and managing cached data during the building process.
+This project showcases the usage of building images for various device architectures and managing cached data during the building process.
 
 ## Table of Contents
 
